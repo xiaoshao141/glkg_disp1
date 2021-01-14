@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>qss/QDarkStyleSheet.qss</file>
+        <file>qss/no.qss</file>
+        <file>qss/blue.qss</file>
+        <file>qss/cheng.qss</file>
+        <file>qss/hui.qss</file>
+        <file>qss/no1.qss</file>
+        <file>qss/箭头二.png</file>
+        <file>qss/箭头二hover.png</file>
+        <file>qss/箭头二下.png</file>
+        <file>qss/箭头二下hover.png</file>
+    </qresource>
+    <qresource prefix="/photoes">
+        <file>photoes/photo1.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>photoes/cgjt.png</file>
+    </qresource>
+</RCC>
